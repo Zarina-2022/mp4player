@@ -19,6 +19,6 @@
 <p>Copy link of demo <b>video-player.mp</b>4:</p><span>https://file-examples.com/storage/fe9278ad7f642dbd39ac5c9/2017/04/file_example_MP4_1920_18MG.mp4</span>
 
  <h3>Screen Preview:</h3>
-
- ![](video.mp4)
  
+ ![Screenshot](https://user-images.githubusercontent.com/116963373/232034295-f7eff021-2693-41b0-b88d-e4d9934e9915.png)
+
